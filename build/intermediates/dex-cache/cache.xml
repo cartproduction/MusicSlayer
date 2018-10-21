@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.2.5.468.aar\93e31a1f53dc94b15daa39e701dcd556\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5d15b87decafad4b4865fb64d233bcbdcb8c929e">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\1cab4d47472438b42c126df3e6112744\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bcffe8c1676d2ad5751e763c8a9dba198deb466">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91531f9a902af1d925fec4e2f04ec411889a925d">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\StartAppInApp-2.4.15.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8dcfec7b54d8b0f349a09f3758e536f3b8c08c2b">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e4aaae4bcd4df18adde7b649be9ccedb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.2.5.468.aar\9b6284aaa7072ab9ae740be258bda92c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d1f397877a604c307863601d38d7f27fe75db2b">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\tbapi.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\jsr305-1.3.9.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\jsoup-1.7.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-api-services-youtube-v3-rev124-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce98df163f9f51ad7a29c38da2f4e3176fe81a66">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.2.5.468.aar\6ec8d2c823d26b5d884e54da62b11f9d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6df597fd029b4565981fcbeb02d04385cb0bf57">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\103a17c7aa9cd3c9029d1e1cd9f314fa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.2.0\4a5a82a027706397fff621b22fd6fa796e91d7c5\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\f214e76417652b465629336a66f0bf82\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2ea4f1760aea0c04268336264806b470f0d2daa7">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.2.5.468.aar\70c24580f4cb9c2386d3c87d4bd7a178\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4ea12bdc16ce0c0c3bde4c4be06bd37ac5152a6">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fdc466c5278973852c10c416e57f113efec5a5c">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ad095414a25217d6a8d976ab322779a40dd3e5d">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\222ebb41291e5ad360f08a40842165de\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca16669fa2a5a82d13b037db5723f26007577247">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\bf18d096dba74af642f621d244114065\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\Parse-1.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="181b435832725bec96c11ff568bdfbccdacab944">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SERCAN\Desktop\PlayerGradle\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\SERCAN\Desktop\PlayerGradle\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+
+</items>

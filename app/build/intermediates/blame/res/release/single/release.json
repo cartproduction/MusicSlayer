@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_loader.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_loader.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_play.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_play.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_lsit_selectorx.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\lsit_selectorx.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_ads_mute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_ads_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t1_item.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t1_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_green_round_rect.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable\\apnxt_green_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_big_play_button.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_big_play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_na_unmute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\native-ads2-2.2.5.468.aar\\70c24580f4cb9c2386d3c87d4bd7a178\\res\\drawable-hdpi-v4\\apnxt_na_unmute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_ads_unmute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_ads_unmute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_pussi.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\pussi.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_src_btn.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\src_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_pause.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s1t3.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s1t3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_banner_rating_bar.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable\\apnxt_banner_rating_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_medium_rectangle_1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\layout\\apnxt_medium_rectangle_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_ads_rating_bar.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable\\apnxt_ads_rating_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_small_play_button.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_small_play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\core-2.2.5.468.aar\\9b6284aaa7072ab9ae740be258bda92c\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_na_i_icon.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\native-ads2-2.2.5.468.aar\\70c24580f4cb9c2386d3c87d4bd7a178\\res\\drawable-hdpi-v4\\apnxt_na_i_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_sricbtn.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\sricbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_icmss.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\icmss.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_ads_i_icon.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_ads_i_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_banner_border.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable\\banner_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s2t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s2t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s3t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s3t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_gra_bg.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\gra_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_mute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s2t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s2t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s3t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s3t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_na_pause.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\native-ads2-2.2.5.468.aar\\70c24580f4cb9c2386d3c87d4bd7a178\\res\\drawable-hdpi-v4\\apnxt_na_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_large_banner_1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\layout\\apnxt_large_banner_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_ads_empty_star.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_ads_empty_star.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_rec_edit_txt.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\rec_edit_txt.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_video_activity.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_video_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_x_icon.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_x_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\anim_apnxt_stream_loader.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\anim\\apnxt_stream_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s3t2_item.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s3t2_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s3t2.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s3t2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_unmute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_unmute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s1t1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s1t1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t2.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_na_play.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\native-ads2-2.2.5.468.aar\\70c24580f4cb9c2386d3c87d4bd7a178\\res\\drawable-hdpi-v4\\apnxt_na_play.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_empty_star.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_empty_star.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_videov.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\layout\\videov.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t3.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t3.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t2_item.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t2_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_play_button.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_s1t3_item.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout\\apnxt_s1t3_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_gra_bg_hov.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\drawable\\gra_bg_hov.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_full_star.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_full_star.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_green_round_rect_banner.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable\\apnxt_green_round_rect_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_banner_i_icon.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\drawable-hdpi-v4\\apnxt_banner_i_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_streaming_loader.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_streaming_loader.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_progressbar.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable\\apnxt_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s1t2.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s1t2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_rowissa.xml.flat",
+        "source": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\src\\main\\res\\layout\\rowissa.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_white_round_rect.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable\\apnxt_white_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s1t3_item.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s1t3_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout-land_apnxt_s3t2.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\layout-land\\apnxt_s3t2.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_na_mute.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\native-ads2-2.2.5.468.aar\\70c24580f4cb9c2386d3c87d4bd7a178\\res\\drawable-hdpi-v4\\apnxt_na_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\layout_apnxt_banner_1.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\banners-2.2.5.468.aar\\6ec8d2c823d26b5d884e54da62b11f9d\\res\\layout\\apnxt_banner_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_v.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_v.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_apnxt_white_rect.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable\\apnxt_white_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_apnxt_ads_full_star.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\ads-2.2.5.468.aar\\93e31a1f53dc94b15daa39e701dcd556\\res\\drawable-hdpi-v4\\apnxt_ads_full_star.png"
+    },
+    {
+        "merged": "C:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\SERCAN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.0.aar\\3a4fb9c3b3442f1a452796176b241846\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    }
+]

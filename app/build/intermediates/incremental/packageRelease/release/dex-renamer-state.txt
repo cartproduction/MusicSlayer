@@ -1,0 +1,4 @@
+#Thu Apr 26 00:00:16 EET 2018
+base.0=C\:\\Users\\SERCAN\\Desktop\\PlayerGradle\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

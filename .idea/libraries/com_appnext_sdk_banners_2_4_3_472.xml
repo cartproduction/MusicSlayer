@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.appnext.sdk:banners-2.4.3.472">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/banners-2.4.3.472.aar/c888f4f14f1b4ecd90ead98fd5a34c7f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/banners-2.4.3.472.aar/c888f4f14f1b4ecd90ead98fd5a34c7f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

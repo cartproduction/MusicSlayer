@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Mp3 Music Downloader</string>
+    <string name="search">Search</string>
+        <string name="msg1tr">Uygulamayı güncellemeniz gerekiyor</string>
+         <string name="msg2tr">Tamam</string>
+        <string name="msg1en">You should update the application</string>
+        <string name="msg2en">Ok</string>
+
+
+         <string-array name="key_array">
+        <item>AIzaSyBg6mEU6ee5NautbQ5DfYzb5bI9H3foCxk</item>
+        <item>AIzaSyBZf201ggv3fOlXqdW9vN2ca65SRFAb-3Y</item>
+        <item>AIzaSyDoA6elbig1utiq6Xp-tDBfaTt8HPFlyZ4</item>
+        <item>AIzaSyDmZdNAr6WfijwZQJODXQilDJRXje7DQbk</item>
+        <item>AIzaSyDmd9JQDEUvPCLgyAyyMkGB1DfT_TWMVnM</item>
+        <item>AIzaSyAgKXHax4Hw28mxXd1LR0IT4_jepmDAfeA</item>
+        <item>AIzaSyCwsfWQto5V8lOTMdptpK_tu-TLdlDnqtY</item>
+        <item>AIzaSyDwWpm5-fCak79V4vYypPQW-eGVTT3CdP8</item>
+        <item>AIzaSyCL33vtF1NJa2hn3fmQhNWzxdWnaysL3DQ</item>
+        <item>AIzaSyBe3oxy6dloZUzwGCxSilbI-HVl21R3bUo</item>
+        <item>AIzaSyDaSrFDbkKMjwrW8VUSJmY5hd60s0NjVww</item>
+    </string-array>
+    
+         <string name="foldername">Mp3 Downloader</string>
+    
+</resources>

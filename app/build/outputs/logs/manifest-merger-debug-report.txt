@@ -1,0 +1,325 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:2:1-30:12
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\932e737a7a93717e9fd20e6ecca3cd83\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\471ff1d33441a1ca519ff70d90e25e6f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\baf026a1e5bebc36bf46659919b6b238\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\82153c1702b2eafbdafcb94c5b40338e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\532ddb4cee131c59384677ff6820bb0c\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:1-53:12
+	package
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:5:5-44
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:6:5-44
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\932e737a7a93717e9fd20e6ecca3cd83\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\932e737a7a93717e9fd20e6ecca3cd83\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\471ff1d33441a1ca519ff70d90e25e6f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\471ff1d33441a1ca519ff70d90e25e6f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\baf026a1e5bebc36bf46659919b6b238\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\baf026a1e5bebc36bf46659919b6b238\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\82153c1702b2eafbdafcb94c5b40338e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\82153c1702b2eafbdafcb94c5b40338e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\532ddb4cee131c59384677ff6820bb0c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\532ddb4cee131c59384677ff6820bb0c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:7:5-67
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:7:5-67
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:8:5-67
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:11:8-84
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:11:25-82
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:12:9-84
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:12:26-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:13:6-82
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:13:23-79
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:14:6-82
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:10:5-81
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:14:23-79
+uses-permission#android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:15:10-94
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:15:27-92
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:16:7-92
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:16:24-90
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:17:10-76
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:17:27-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:18:6-76
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:18:23-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:19:6-75
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:19:23-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:20:10-83
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:8:5-79
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:8:5-79
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:9:5-79
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:20:27-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:21:5-68
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:11:5-68
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:22:2-63
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:22:19-60
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:23:1-78
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:23:18-75
+permission#com.lyricsfinder.player.permission.C2D_MESSAGE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:25:1-26:41
+	android:protectionLevel
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:26:3-38
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:25:13-74
+uses-permission#com.lyricsfinder.player.permission.C2D_MESSAGE
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:27:2-83
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:27:19-80
+application
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:29:5-51:19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\cebcc772429e4e6d8988d10e3e4df03a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\6552d83824949496b1e4694996f034a0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\5bf036459fa6c0ad58021211e25c770c\AndroidManifest.xml:25:5-20
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:10:5-28:19
+MERGED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:10:5-28:19
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:7:5-11:19
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:7:5-11:19
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:13:5-38:19
+MERGED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:13:5-38:19
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\932e737a7a93717e9fd20e6ecca3cd83\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\932e737a7a93717e9fd20e6ecca3cd83\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\471ff1d33441a1ca519ff70d90e25e6f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\471ff1d33441a1ca519ff70d90e25e6f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\baf026a1e5bebc36bf46659919b6b238\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\baf026a1e5bebc36bf46659919b6b238\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\82153c1702b2eafbdafcb94c5b40338e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\82153c1702b2eafbdafcb94c5b40338e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\532ddb4cee131c59384677ff6820bb0c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\532ddb4cee131c59384677ff6820bb0c\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:33:9-40
+activity#com.lyricsfinder.player.MainActivity
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:35:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:40:27-74
+service#com.appnext.appnextsdk.DownloadService
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:44:11-75
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:44:20-73
+activity#com.startapp.android.publish.AppWallActivity
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:45:12-46:62
+	android:theme
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:46:11-59
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:45:22-81
+activity#com.startapp.android.publish.list3d.List3DActivity
+ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:48:14-49:50
+	android:theme
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:49:11-47
+	android:name
+		ADDED from C:\Users\SERCAN\Desktop\PlayerGradle\app\src\main\AndroidManifest.xml:48:24-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\3a4fb9c3b3442f1a452796176b241846\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\2224520b584a449874dc1bc9a338f064\AndroidManifest.xml:20:20-65
+service#com.appnext.core.AdsService
+ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:13:9-15:43
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:8:9-10:43
+MERGED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:8:9-10:43
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:8:9-10:43
+MERGED from [com.appnext.sdk:native-ads2:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\native-ads2-2.4.3.472.aar\b111f60aecb8b035d12c2c7baaa91b8c\AndroidManifest.xml:8:9-10:43
+	android:multiprocess
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:15:13-40
+	android:name
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:14:13-55
+activity#com.appnext.ads.interstitial.InterstitialActivity
+ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:17:9-22:74
+	android:multiprocess
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:21:13-40
+	android:hardwareAccelerated
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:20:13-47
+	android:configChanges
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:19:13-74
+	android:theme
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:18:13-77
+activity#com.appnext.ads.fullscreen.FullscreenActivity
+ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:23:9-27:74
+	android:multiprocess
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:26:13-40
+	android:hardwareAccelerated
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:25:13-47
+	android:theme
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:27:13-71
+	android:name
+		ADDED from [com.appnext.sdk:ads:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\ads-2.4.3.472.aar\ae1cbeb657a46efccd50578c64337cfd\AndroidManifest.xml:24:13-73
+activity#com.appnext.banners.BannerActivity
+ADDED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:12:9-71
+	android:name
+		ADDED from [com.appnext.sdk:banners:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\banners-2.4.3.472.aar\c888f4f14f1b4ecd90ead98fd5a34c7f\AndroidManifest.xml:12:19-68
+service#com.appnext.base.services.OperationService
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:14:9-17:40
+	android:enabled
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:15:13-70
+service#com.appnext.base.services.OperationJobService
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:18:9-21:72
+	android:exported
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:19:13-73
+service#com.appnext.base.services.EventsJobIntentService
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:22:9-25:72
+	android:exported
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:24:13-37
+	android:permission
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:23:13-76
+receiver#com.appnext.base.receivers.EventsReceiver
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:27:19-75
+receiver#com.appnext.base.receivers.AppnextBootReciever
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:28:19-80
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:29:13-31:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:30:25-76
+activity#com.appnext.core.ResultActivity
+ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:34:9-37:46
+	android:excludeFromRecents
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from [com.appnext.sdk:core:2.4.3.472] C:\Users\SERCAN\.gradle\caches\transforms-1\files-1.1\core-2.4.3.472.aar\b54621f5df245abb09314f3efbb051d6\AndroidManifest.xml:35:13-59

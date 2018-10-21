@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="key_array">
+        <item>AIzaSyBg6mEU6ee5NautbQ5DfYzb5bI9H3foCxk</item>
+        <item>AIzaSyBZf201ggv3fOlXqdW9vN2ca65SRFAb-3Y</item>
+        <item>AIzaSyDoA6elbig1utiq6Xp-tDBfaTt8HPFlyZ4</item>
+        <item>AIzaSyDmZdNAr6WfijwZQJODXQilDJRXje7DQbk</item>
+        <item>AIzaSyDmd9JQDEUvPCLgyAyyMkGB1DfT_TWMVnM</item>
+        <item>AIzaSyAgKXHax4Hw28mxXd1LR0IT4_jepmDAfeA</item>
+        <item>AIzaSyCwsfWQto5V8lOTMdptpK_tu-TLdlDnqtY</item>
+        <item>AIzaSyDwWpm5-fCak79V4vYypPQW-eGVTT3CdP8</item>
+        <item>AIzaSyCL33vtF1NJa2hn3fmQhNWzxdWnaysL3DQ</item>
+        <item>AIzaSyBe3oxy6dloZUzwGCxSilbI-HVl21R3bUo</item>
+        <item>AIzaSyDaSrFDbkKMjwrW8VUSJmY5hd60s0NjVww</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="dividColor">#FFFFCC</color>
+    <color name="mintCream">#F5FFFA</color>
+    <color name="pembe">#E2A9F3</color>
+    <color name="sage">#999999</color>
+    <color name="springGreen">#00FF7F</color>
+    <color name="turkuaz">#CEECF5</color>
+    <declare-styleable name="BannersAttrs"><attr format="string" name="bannerSize"/><attr format="string" name="placementId"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr><attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <integer name="google_play_services_version">11010000</integer>
+    <string name="apnxt_which_video">Which Video <b>would you like to watch?</b></string>
+    <string name="app_name">Mp3 Music Downloader</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="foldername">Mp3 Downloader</string>
+    <string name="msg1en">You should update the application</string>
+    <string name="msg1tr">Uygulamayı güncellemeniz gerekiyor</string>
+    <string name="msg2en">Ok</string>
+    <string name="msg2tr">Tamam</string>
+    <string name="search">Search</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="apnxtRatingBar" parent="@android:style/Widget.Holo.Light.RatingBar.Small">
+        <item name="android:progressDrawable">@drawable/apnxt_ads_rating_bar</item>
+        <item name="android:maxHeight">15dp</item>
+        <item name="android:minHeight">15dp</item>
+        <item name="android:transformPivotX">0dp</item>
+        <item name="android:transformPivotY">15dp</item>
+        <item name="android:scaleX">0.9</item>
+        <item name="android:scaleY">0.9</item>
+    </style>
+</resources>
